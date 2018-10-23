@@ -13,8 +13,8 @@ Za vsako knjigo bom zajela:
 * score knjige (skupen rezultat)
 
 Delovne hipoteze:
-* Primerjava najvišjih povprečnih ocen knjig iz 21.stoletja
-in knjig in 20. stoletja.
+* Primerjava knjig iz 21.stoletja in knjig in 20. stoletja.
+(najvišja povprečna ocena, število glasov,...)
 * Kateri avtorji so najpopularnejši?
 * Ali ima knjiga z najvišjo povprečno oceno tudi
 največ glasov?
