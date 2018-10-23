@@ -1,4 +1,6 @@
-# Projekt_programiranje1
+# Projektna naloga - Programiranje 1
+
+Analiza popularnih knjig
 
 Analizirala bom od 2500 do 5000 najbolj popularnih knjig 20. in
 21. stoletja na spetni strani [Goodreads](https://www.goodreads.com/).
